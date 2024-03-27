@@ -21,8 +21,13 @@
   </a>
 </p>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifdev&layout=compact&theme=radical" alt=elifdev />
+<div align="center" >
 
+<img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifdev&layout=compact&theme=radical" alt=elifdev />
+
+<img align="center" src="https://github.com/elifdev/elifdev/assets/147872048/3ad552fe-bad2-457b-9ba4-fafba519e101" height="250">
+</div>
