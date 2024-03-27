@@ -8,16 +8,30 @@
 
 
 </div><h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/elifaras09" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="elifaras09" height="30" width="40" /></a><a href="https://discord.gg/elif_aras" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="elif_aras" height="30" width="40" /></a></p>
+ <div align="center"> 
+  <a href="https://www.linkedin.com/in/elifaras09/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=blue" target="_blank">
+  </a>
+  <a href = "mailto:elifdevpro@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=reed" target="_blank">
+  </a>
 
+ <a href="https://discord.com/users/elif_aras" target="_blank">
+   <img alt="discord" src="https://img.shields.io/badge/Discord-%23333?style=for-the-badge&logo=discord&logoColor=#7289d9"/>
+  </a>
+</div>
 
 
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,angular,js,spring,css,html,nodejs,react,ts,mysql,postgres,git,bootstrap,postman,codepen,eclipse,figma," />
+    <img src="https://skillicons.dev/icons?i=java,angular,js,spring,css,html,nodejs,react,ts" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,git,bootstrap,postman,codepen,eclipse,figma," />
   </a>
 </p>
 
