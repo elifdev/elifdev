@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Elif</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> , I'm Elif</h1> 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">I'm Full Stack Developer</h3>
