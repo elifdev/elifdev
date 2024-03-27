@@ -44,5 +44,5 @@
 
 <img align="center"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elifdev&layout=compact&theme=radical" alt=elifdev />
 
-<img align="center" src="https://github.com/elifdev/elifdev/assets/147872048/3ad552fe-bad2-457b-9ba4-fafba519e101" height="250">
+<img align="center" src="https://github.com/elifdev/elifdev/blob/main/JXA0.gif" height="250">
 </div>
