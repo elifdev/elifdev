@@ -27,7 +27,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,cs,angular,js,spring,css,html,nodejs,react,ts" />
+    <img src="https://skillicons.dev/icons?i=java,cs,angular,js,spring,css,sass,html,nodejs,react,ts" />
   </a>
 </p>
 <p align="center">
